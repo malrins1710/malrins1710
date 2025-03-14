@@ -1,11 +1,11 @@
 ## Hi, I'm Bao. Nice to meet you, my friends! 🙋
-
+## 🕵️About me:
 🧑‍🎓 Bachelor of Science in [Information Technology](https://www.youtube.com/watch?v=XZrckLYqdys) (Major in [Artificial Intelligence](https://www.youtube.com/watch?v=c0m6yaGlZh4)) at [Nguyen Tat Thanh University](https://ntt.edu.vn/), Ho Chi Minh City. <br>
-💻
-📖
-📈
-🧑‍🦽‍➡️
-🧗‍♂️
+💻 <br/>
+📖 <br/>
+📈 <br/>
+🧑‍🦽‍➡️ <br/>
+🧗‍♂️ My goal is to become an expert artificial intelligence (AI) engineer! And have a lot of money 😁.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giabaoDS/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/malrins1710/)
