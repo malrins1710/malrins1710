@@ -51,10 +51,10 @@
 <br/><br/>
 
 <a href="https://github.com/malrins1710/Titanic_ML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/malrins1710/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
 </a>
 
 
