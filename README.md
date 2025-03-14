@@ -13,10 +13,9 @@
 </a>
 <br/><br/>
 
-<a href="https://github.com/malrins1710/malrins1710">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
-</a>    
+<a href="https://github.com/anuraghazra/Titanic_ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
+</a>
 
 
   
