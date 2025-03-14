@@ -6,7 +6,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giabaoDS/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/malrins1710/)
 
 <a href="https://github.com/malrins1710/malrins1710">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710&theme=tokyonight&hide=contribs,prs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710" />
 </a>
 <a href="https://github.com/malrins1710/malrins1710">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8" />
