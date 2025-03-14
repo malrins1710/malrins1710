@@ -49,7 +49,6 @@
 <a href="https://github.com/malrins1710">
   <img height=200 align="right" margin-top=100px src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=algolia" />
 </a>
-<br/><br/>
 <a href="https://github.com/malrins1710/Titanic_ML">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
 </a>
