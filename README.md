@@ -43,7 +43,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 <a href="https://github.com/malrins1710">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian&hide=contribs,prs" />
+  <img height=200  width=100% align="left" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian&hide=contribs,prs" />
   
 </a>
 <a href="https://github.com/malrins1710">
