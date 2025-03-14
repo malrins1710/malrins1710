@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Bao. Nice to meet you, my friends! 👋
 
 <!--
 **malrins1710/malrins1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
