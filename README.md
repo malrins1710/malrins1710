@@ -43,17 +43,19 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 <a href="https://github.com/malrins1710">
-  <img height=300  width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian&hide=contribs,prs" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian&hide=contribs,prs" />
 </a>
-<br/><br/>
+
 <a href="https://github.com/malrins1710">
-  <img height=200 align="right" margin-top=100px src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=algolia" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=algolia" />
 </a>
+
 <a href="https://github.com/malrins1710/Titanic_ML">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
 </a>
+
 <a href="https://github.com/malrins1710/Python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
 </a>
 
 
