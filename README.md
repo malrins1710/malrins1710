@@ -8,7 +8,7 @@
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giabaoDS/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/malrins1710/)
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) Youtube](https://www.youtube.com/@giabao1710)
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@giabao1710)
 
 
 ## 💻 My profesional skills
