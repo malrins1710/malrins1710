@@ -9,13 +9,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/malrins1710/malrins1710">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=ambient_gradient" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/malrins1710/Titanic_ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=rose" />
 </a>    
 
 
