@@ -1,4 +1,4 @@
-## Hi, I'm Bao. Nice to meet you, my friends! 🙋
+## Hi, my name is Gia Bảo, i'm Vietnamese. Nice to meet you, my friends! 🙋
 ## 🕵️About me:
   🧑‍🎓 Bachelor of Science in [Information Technology](https://www.youtube.com/watch?v=XZrckLYqdys) (Major in [Artificial Intelligence](https://www.youtube.com/watch?v=c0m6yaGlZh4)) at [Nguyen Tat Thanh University](https://ntt.edu.vn/), Ho Chi Minh City. <br>
   📖 Currenly i'm learning about finance and English for the TOEIC throught [PREP education](https://prepedu.com/vi/). <br/>
