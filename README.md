@@ -11,7 +11,7 @@
 <a href="https://github.com/malrins1710/malrins1710">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8" />
 </a>
-
+<br/><br/>
 
 <a href="https://github.com/malrins1710/Titanic_ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
