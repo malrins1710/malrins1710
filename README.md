@@ -7,7 +7,9 @@
 🧗‍♂️ My goal is to become an expert artificial intelligence (AI) engineer! And have a lot of money 😁.
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/giabaoDS/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/malrins1710/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/malrins1710/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/giabao661)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giabaoDS/)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@giabao1710)
 
 
