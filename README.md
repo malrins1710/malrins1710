@@ -45,17 +45,16 @@
 <a href="https://github.com/malrins1710">
   <img height=300  width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=malrins1710&show_icons=true&theme=prussian&hide=contribs,prs" />
 </a>
-
-
+<br/><br/>
 <a href="https://github.com/malrins1710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=algolia" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malrins1710&layout=compact&langs_count=8&theme=algolia" />
 </a>
 <br/><br/>
 <a href="https://github.com/malrins1710/Titanic_ML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Titanic_ML&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/malrins1710/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=malrins1710&repo=Python&theme=ambient_gradient" />
 </a>
 
 
