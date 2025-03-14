@@ -1,9 +1,9 @@
 ## Hi, I'm Bao. Nice to meet you, my friends! 🙋
 ## 🕵️About me:
-🧑‍🎓 Bachelor of Science in [Information Technology](https://www.youtube.com/watch?v=XZrckLYqdys) (Major in [Artificial Intelligence](https://www.youtube.com/watch?v=c0m6yaGlZh4)) at [Nguyen Tat Thanh University](https://ntt.edu.vn/), Ho Chi Minh City. <br>
-📖 Currenly i'm learning about finance and English for the TOEIC throught [PREP education](https://prepedu.com/vi/). <br/>
-📈 My profesional skills are Data Analysis, Data Science, Machine Learning Engineer, Deep Learning Engineer.<br/>
-🧗‍♂ My goal is to become an expert artificial intelligence (AI) engineer! And have a lot of money 😁.
+  🧑‍🎓 Bachelor of Science in [Information Technology](https://www.youtube.com/watch?v=XZrckLYqdys) (Major in [Artificial Intelligence](https://www.youtube.com/watch?v=c0m6yaGlZh4)) at [Nguyen Tat Thanh University](https://ntt.edu.vn/), Ho Chi Minh City. <br>
+  📖 Currenly i'm learning about finance and English for the TOEIC throught [PREP education](https://prepedu.com/vi/). <br/>
+  📈 My profesional skills are Data Analysis, Data Science, Machine Learning Engineer, Computer Vision Engineer.<br/>
+  🧗‍♂ My goal is to become an expert artificial intelligence (AI) engineer! And have a lot of money 😁.
 ## 📫 How to reach me: 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/giabao661)
